@@ -1,0 +1,1 @@
+# graphql-type-safe-fullstack-demo
